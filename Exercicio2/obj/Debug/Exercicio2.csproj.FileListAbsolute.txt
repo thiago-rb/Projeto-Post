@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\thiag\Desktop\Udemy C#\Enumeração\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
